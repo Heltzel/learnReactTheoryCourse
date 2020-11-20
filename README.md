@@ -1,4 +1,4 @@
-*earnReactTheoryCourse/src/tutorial/*
+#  view: learnReactTheoryCourse/src/tutorial/#
 
 ## Corresponding Projects
 
