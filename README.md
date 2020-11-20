@@ -1,3 +1,5 @@
+*earnReactTheoryCourse/src/tutorial/*
+
 ## Corresponding Projects
 
 #### useState
