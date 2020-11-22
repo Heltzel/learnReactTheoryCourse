@@ -35,6 +35,4 @@
 14. Cart
 
 #### React Router
-# learnReactTheory
-# learnReactTheoryCourse
-# learnReactTheoryCourse
+
