@@ -243,6 +243,9 @@ p {
   border-radius: var(--radius);
   cursor: pointer;
 }
+.nav-router {
+  display: flex;
+}
 .nav-links {
   max-width: var(--fixed-width);
   margin: 0 auto;
